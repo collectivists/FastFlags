@@ -4,8 +4,9 @@
 
 <h1 align="center">Performance over Quality</h1>
 
-#### Version: 1.0.0 [R]
-* Initial
+#### Version: 1.0.1 [B]
+* `[1.0.0]` [R] Initial
+* `[1.0.1]` [B] Fix JSON
 
 <h3 align="center">꧖ꦿꦸ</h3>
 
@@ -28,7 +29,7 @@
     "FIntRenderLocalLightFadeInMs": "-1",
     "FFlagDisablePostFx": "True",
     "DFFlagDebugPauseVoxelizer": "True",
-    "FFlagDebugSkyGray": "True"
+    "FFlagDebugSkyGray": "True",
     "DFIntCSGLevelOfDetailSwitchingDistance": "0",
     "DFIntCSGLevelOfDetailSwitchingDistanceL12": "0",
     "DFIntCSGLevelOfDetailSwitchingDistanceL23": "0",
