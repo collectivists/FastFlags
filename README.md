@@ -9,7 +9,7 @@
 > [!CAUTION]
 > FastFlags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
 
-#### Version: `6.22.24++` `[CLEAN]
+#### Version: `6.22.24++` `[CLEAN]`
 * **125 Currently Listed**
 * `Makes stuff slightly brighter`, `Desktop App Dev Tools`, `V1 Menu`
 
